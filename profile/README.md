@@ -12,4 +12,6 @@ It’s a project to **prove**, **practice**, and **develop** my abilities as a s
 
 ---
 
-
+[![Built with Java](https://img.shields.io/badge/built%20with-Java-blue?style=flat-square&logo=java)](https://www.java.com/)
+[![Gradle](https://img.shields.io/badge/build%20tool-Gradle-02303A?style=flat-square&logo=gradle)](https://gradle.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](./LICENSE)
